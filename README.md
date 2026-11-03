@@ -14,7 +14,8 @@ Icety Technologies designs, develops and deploys web applications, mobile applic
 | Country | Nigeria |
 | Industry | Digital services |
 | Category | Web development and programming |
-| Contact | adetolaelemide@gmail.com |
+| Email | adetolaelemide@gmail.com |
+| Phone / WhatsApp | 0814 572 0875 |
 
 ## Pages
 
